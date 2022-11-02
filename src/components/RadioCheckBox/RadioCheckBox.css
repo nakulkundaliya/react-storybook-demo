@@ -1,0 +1,10 @@
+.radiocheckbox-wrapper {
+  display: flex;
+  margin-bottom: 11px;
+}
+
+.radiocheckbox-input {
+  margin-right: 8px;
+  border: 1px solid #667085;
+  border-radius: 4px;
+}
